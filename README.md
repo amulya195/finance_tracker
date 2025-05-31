@@ -9,7 +9,7 @@
 
 # Setup Project
 * Clone This Git Repo `git clone https://github.com/ChetanR01/FinanceTracker`
-* Change directory `cd FinanceTracker`
+* Change directory `cd Finance_Tracker`
 * Install dependencies from requirements.txt
 * `pip install -r requirements.txt`
 
