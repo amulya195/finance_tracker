@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center; */
     min-height: 100vh;
-    background: url(milky.jpg);
+    background: url(mon.jpg);
 }
 /* styles.css */
 
@@ -14,13 +14,13 @@ body{
     position: absolute;
     top: 16px;
     right: 45px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(78, 223, 45, 0.5);
     padding: 15px 62px;
     border: none;
     border-radius: 5px;
 }
 h1{
-    color: white;
+    color: rgb(44, 166, 84);
 }
 /* Centered Income Entries Heading with White Color */
 h2 {
