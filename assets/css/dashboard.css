@@ -1,9 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background: url(dark-gradient.jpg);
+    background-color: hotpink !important;
 }
+
+
 
 header {
     background-color: #ffffff44;
@@ -100,3 +99,11 @@ main {
     width: 42%;
     padding: 25px 25px ;
 } */
+
+
+
+body {
+  background-size: 200% 200%;
+}
+
+
