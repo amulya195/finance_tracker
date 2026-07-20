@@ -416,5 +416,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <p center="text-align">
-Made with ❤️ by <a href="https://github.com/amulya195">Amulya</a>
+Made with ❤️ by <a href="https://github.com/amulya195">Amulya, Akanksh, Akshaya and Akarsh</a>
 </p>
